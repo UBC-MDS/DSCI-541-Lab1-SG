@@ -219,11 +219,11 @@ YOUR OUTLINES HERE
 
 YOUR ANSWERS HERE: written up by Rahiq
 
-1.
+1. We think it can be largely unethical to rely on engagement as the main metric, even if making platforms engaging is obviously the goal. The problem is that engagement ends up rewarding content that triggers strong emotional reactions which can lead to addictive behaviour. To summarise, engagement is the natural thing to measure, but optimising purely for it can push platforms toward unhealthy user experiences rather than positive interactions.
 
-2.
+2. One way to use metrics more responsibly is to distinguish between positive and negative engagement, and then prioritize content that leads to healthier interactions. For example, platforms could downweight content that consistently triggers outrage or toxicity, while promoting content that leads to constructive or enjoyable experiences. That said, it is genuinely difficult to balance responsibility with effectiveness, because most social media business models are built around maximizing time spent and interaction, which often conflicts with promoting healthier content.
 
-3.
+3. Responsibility is shared across multiple groups. Governments should definitely play a role by setting regulations and consumer protections, especially since some regions already enforce stricter standards. At the same time, data scientists working on these systems have a responsibility to think critically about the metrics they design and recommend, since they directly shape user experience. Ultimately, company leadership also carries major responsibility because they make the final decisions and set priorities, especially when profit incentives conflict with user well being.
 
 ## Question 2.3 -- Individual responsibilities
 
