@@ -159,11 +159,23 @@ YOUR OUTLINES HERE
 
 1.
 
+- Yes, all agree that social media platforms have a responsibility for the content they recommend
+- No to same editorial duties, moreso monitoring what content users are already recommending (no extremist content, as an example) while allowing free speech
+
 2.
+
+- Yes, there shouyld be a general right to a a certain extent to label stories as fake news
+- Censorship is a slipper slope, should not be enforced by a privately owned company
+- something similar to X where community notes can clarify false information or provide context
+- people are emotional and not necessarily willing to rationally discuss 'false news'
 
 3.
 
-YOUR ANSWERS HERE
+- Social media platforms are not responsible for the content users upload on it - huge burden to monitor
+- Can hurt mental health of reviewers (facebook dark content reviewers)
+- Users sign up to the platform knowing they may face untrue or upsetting content, it is on them to protect themselves
+
+YOUR ANSWERS HERE: written up by Victoria
 
 1.
 
@@ -189,11 +201,22 @@ YOUR OUTLINES HERE
 
 1.
 
+- Yes, it is largley unethical (dopamine hacking, ragebait, forming addictions), even if it is the only true way to measure engagement
+- Yes we do, especially if it is a social media platform that uses user data as a main revenue source
+- High engagement content is very often unhealthy and evokes strong emotions.
+
 2.
+
+- strat: label pos vs negative content and try to minimize negative content while maximizing positive content (rewarding engagement with positive content more)
+- otherwise it is difficult to be both responsible and effective due to the revenue system that social media is based on
 
 3.
 
-YOUR ANSWERS HERE
+- definitely government should play a role (e.g. EU internet consumer protection laws are much stricter)
+- to some degree, the Data Scientist working directly on the platform metrics and making recommendations should be aware of the consequences of using certain metrics
+- obviously the company leadership also holds some responsibility as well, as they make the final calls and decide what the priority is
+
+YOUR ANSWERS HERE: written up by Rahiq
 
 1.
 
@@ -219,11 +242,25 @@ YOUR OUTLINES HERE
 
 1.
 
+- I think it's OK, given a reputable source and the headline is fairly descriptive (plus not that controversial)
+- obviosuly context is important and headlines nowadays are meant to be attention grabbing/clickbaity
+- up to the individual's judgement
+
 2.
+
+- personal: read newspapers properly
+- use AI to check over news: difficult for breaking news and for fresh research, there is tradeoff
+- Community notes
+- Indepdently funding journalism and reputable sources more - minimizing paywalls without a specific goverment body oversight
+- penalize 'influencers' for spreading misinformation or disinformation
 
 3.
 
-YOUR ANSWERS HERE
+- hard to stop it as most false information being spread is misinformation not disinformation (unintentional)
+- no, everyone has personal biases and that will filter into what we consider to be 'credible' - people are more willing to share something they already agree with or believe in
+- people also use social media to relax, generally don't want to put in the mental work or energy to dissect something critically (influence can also play a role)
+
+YOUR ANSWERS HERE: written up by Sean
 
 1.
 
@@ -251,11 +288,11 @@ Read <a href=https://themarkup.org/show-your-work/2021/11/18/how-we-investigated
 
 YOUR ANSWERS HERE
 
-1.
+1. Sean
 
-2.
+2. Rahiq
 
-3.
+3. Victoria
 
 ---
 
