@@ -297,7 +297,7 @@ YOUR ANSWERS HERE
 
 1. Sean
 
-2. Rahiq
+2. I think the analysis is pretty solid, especially considering how hard it is to study something like Facebook without internal access. Using a panel of users to estimate what actually appears in people’s feeds is a clever workaround, and it’s reassuring that their findings roughly align with Facebook’s own published data. That said, it’s still an approximation. The sample size is fairly small and may not fully represent the broader user base, and looking at content at the domain level can miss differences between individual posts. Overall, though, it seems like a reasonable and well thought out way to measure what they’re claiming, even if it’s not a perfect picture.
 
 3. Victoria
 
