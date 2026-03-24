@@ -177,11 +177,12 @@ YOUR OUTLINES HERE
 
 YOUR ANSWERS HERE: written up by Victoria
 
-1.
+1. Yes, social media platforms with the ability to tailor their 'front page news feed' for each user (likely using recommendation algorithms) do have a responsibility to monitor the content that they recommend. It is likely that a user is continuously engaging with content that either confirms a pre-existing belief, or is being recommended highly related content, which does end up trapping them in an echo chamber. Echo chambers can result in a development of dangerously extremist beliefs, and since these beliefs are either propagated or created by social media recommendation systems it is their responsibility to monitor these situations. One famous example of this having gone wrong is the Facebook-Myanmar genocide scandal: they failed to hire Burmese speaking moderators which meant that dangerous beliefs were spread unchecked until a tragically violent event unfolded. While social media platforms should not have editorial responsibility, they should be held accountable in cases of failed content moderation.
 
-2.
+2. We do not believe it is necessarily wrong for social media platforms to label stores as 'fake news', as this would be a part of properly moderating content. It would be more irresponsible to allow for false information to spread under the guise of it being the truth, thereby manipulating and fooling users into believing a lie (which is often done for some personal gain). To some extent, this system does already exist through X's community notes feature, which allows for users to provide further context or call a tweet out as a lie. That being said, total censorship (i.e. taking down stories flagged as false) can be a slippery slope and should not be enforced by a privately owned entity like a social media platform. It would be best to allow these false news stories to go around (given that it is not overly harmful or upsetting) with a clear flag that the story should be taken with a grain of salt. We believe it may also help educate people on what to look for in false stories and may encourage further critical thinking (optimistically).
 
-3.
+3. Argument against bullet 1:
+   Social media platforms are not inherently responsible for how users interact with their platform, they merely provide the means and tools for users to engage. It can be burdensome from all angles to monitor content from literal BILLIONS of users and may actively cause harm to another human's psyche. For example, Facebook content moderators have famously been coming out as being diagnosed with PTSD at alarming rates, purely from the amount of horrifying content they are forced to review. Although platforms should encourage/discourage certain types of content from being uploaded, users are making the decision to engage with what they would like to engage with and they signed up for their accounts knowing that they run the risk of seeing upsetting or untrue content. It can be seen as an overreach onto individual freedoms to 'parentify' social media content and can be offensive in some cases to sanitize reality.
 
 ## Question 2.2 -- Metric based engagement
 
@@ -262,7 +263,13 @@ YOUR OUTLINES HERE
 
 YOUR ANSWERS HERE: written up by Sean
 
-1.
+<li>Do you think it is OK to share an article after just reading the headline but not the entire content? Does it matter what topic the article is about?</li>
+
+- I think it's OK, given a reputable source and the headline is fairly descriptive (plus not that controversial)
+- obviosuly context is important and headlines nowadays are meant to be attention grabbing/clickbaity
+- up to the individual's judgement
+
+1. We think that in most cases sharing an article without reading the entire content is acceptable. However
 
 2.
 
