@@ -299,7 +299,7 @@ YOUR ANSWERS HERE
 
 2. I think the analysis is pretty solid, especially considering how hard it is to study something like Facebook without internal access. Using a panel of users to estimate what actually appears in people’s feeds is a clever workaround, and it’s reassuring that their findings roughly align with Facebook’s own published data. That said, it’s still an approximation. The sample size is fairly small and may not fully represent the broader user base, and looking at content at the domain level can miss differences between individual posts. Overall, though, it seems like a reasonable and well thought out way to measure what they’re claiming, even if it’s not a perfect picture.
 
-3. Victoria
+3. The citizen panel was created by recruiting volunteer participants who were willing to download a browser that can access their Facebook feeds, in order to study the Facebook algorithm. However, there are several (large) limitations that has a non-negligible effect on the results: the recruitement demographics were skewed white, democratic, and educated (beyond the high school level) compared to the national average. It is possible that these users are more likely to engage with political posts, which could have resulted in sensationalist posts being falsely overrepresented in their feeds. The citizen browser app also is stated to be a bit of a 'black box' in the way that it interacts with Facebook content - it cannot outright determine why a piece of content is being shown and it is possible that signals are missed due to incompatibilities with parsers. Overall, we think this study is still valid and holds water, but the limitations should be kept in mind when interpreting the results.
 
 ---
 
