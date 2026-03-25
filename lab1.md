@@ -269,11 +269,11 @@ YOUR ANSWERS HERE: written up by Sean
 - obviosuly context is important and headlines nowadays are meant to be attention grabbing/clickbaity
 - up to the individual's judgement
 
-1. We think that in most cases sharing an article without reading the entire content is acceptable. However
+1. We think that in most cases sharing an article without reading the entire content is acceptable, especially if it comes from a reputable news source. However, this depends on the context. If you read a unharmful or funny article headline and share it with your friends then this is totally acceptable. On the other hand, if you are someone with a lot of influence and share a politically sensitive article, this can cause serious damage. Overall, the answer is not black and white. It is based on individual judgement, if a particular article could cause some harm then there is some due diligence to do on your part.
 
-2.
+2. One solution that we proposed to help reduce the spread of information is AI. Specifically, models could be trained to scan news articles, compare it to other similar articles, then potentially identify any disinformation. Obviously this method does come with many tradeoffs, as AI is not perfect and can contain inherent biases. Another solution similar to the one implemented on the X platform is to allow community notes. With this, when an article is shared, community members can identify this as disinformation and a warning will be present if it is ever shared again. Other solutions include supporting independently funded journalism, and minimizing paywalls for highly reputable news sources. Furthermore, another strategy we believing should be implemented is by penalizing influencers who spread disinformation more harshly and timely.
 
-3.
+3. In general, it is only a small minority of individuals who intentionally spread disinformation, most do so out of ignorance. Therefore, is it difficult to stop its spread when most people aren't even aware of it. Furthermore, everyone has personal biases which can cloud their judgement on what they deem to be credible.  Casual users of social media shouldn't be forced into dissecting and critically thinking about all the information they consume. Overall, the individual does have some responsibility to reduce the spread of disinformation, but it is almost impossible to enforce.
 
 ## Question 2.4 (Challenging)
 
@@ -295,7 +295,7 @@ Read <a href=https://themarkup.org/show-your-work/2021/11/18/how-we-investigated
 
 YOUR ANSWERS HERE
 
-1. Sean
+1. Impressions and frequency are defined as the total number of times content has been seen and the number of impressions per user, respectively. In this article, researchers analyze impressions and frequency of news feed content on Facebook using a dataset that ranks the most popular news content by reach (number of unique viewers). The main finding is that Facebook’s Widely Viewed Content Report emphasizes reach but does not account for impressions. When impressions are considered, sensationalist news and opinion sites appear far more frequently in users’ feeds and outperform much of the mainstream news content, producing results that differ significantly from Facebook’s original rankings.
 
 2. I think the analysis is pretty solid, especially considering how hard it is to study something like Facebook without internal access. Using a panel of users to estimate what actually appears in people’s feeds is a clever workaround, and it’s reassuring that their findings roughly align with Facebook’s own published data. That said, it’s still an approximation. The sample size is fairly small and may not fully represent the broader user base, and looking at content at the domain level can miss differences between individual posts. Overall, though, it seems like a reasonable and well thought out way to measure what they’re claiming, even if it’s not a perfect picture.
 
